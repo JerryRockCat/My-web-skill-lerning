@@ -1,0 +1,44 @@
+.img{
+    position: relative;
+ 
+}
+.allbox{
+    justify-content: center;
+    display: flex;
+}
+.Login-form{
+    position: absolute;
+    margin: 150px;
+    width: 300px;
+    padding: 15px 0 35px;
+    border-radius: 2.7em;
+    background-color: #483D8B;
+    color: rgb(228, 232, 236);
+}
+.h1login{
+    justify-content: center;
+    display: flex;
+}
+.logintext1{
+    border-radius: 5px;
+    font-size: 15px;
+}
+.logintext2{
+    border-radius: 5px;
+    font-size: 15px;
+}
+.Loginform-article{
+    justify-content: center;
+    display: flex;
+}
+.Loginsubmit{
+    color: #483D8B;
+    padding: 0.3em 1.2em;
+    font-size: 18px;
+    border-radius: 0.5em;
+    background: #e8e8e8;
+    border: 1px solid #e8e8e8;
+    transition: all .3s;
+    box-shadow: 2px 2px 7px #c5c5c5,
+                -2px -2px 7px #c5c5c5;
+}

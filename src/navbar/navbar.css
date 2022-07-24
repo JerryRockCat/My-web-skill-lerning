@@ -1,0 +1,41 @@
+.toplife{
+    list-style-type: none;
+    display: flex;
+}
+
+.topbar2{
+    background-color: #483D8B;
+    padding: 12px;
+  }
+  .Logo{
+    color: aliceblue;
+    }
+    
+    .Singup{
+      position: fixed;
+      right: 80px;
+    }
+    .Singup a {
+      text-decoration: none;
+      color: aliceblue;
+    }
+    
+    .Home{
+      position: fixed;
+      right: 150px;
+    }
+    
+    .Home a{
+      text-decoration: none;
+      color: aliceblue;
+    }
+    
+    .Login{
+      position: fixed;
+      right: 20px;
+    }
+    
+    .Login a {
+      text-decoration: none;
+      color: aliceblue;
+    }

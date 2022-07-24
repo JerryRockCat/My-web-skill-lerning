@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,44 @@
   to {
     transform: rotate(360deg);
   }
+} */
+/* .page1{
+  background-image: url("https://images.unsplash.com/photo-1530533718754-001d2668365a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80");
+  height: 200%;
+} */
+
+.topbar2{
+  background-color: black;
+  padding: 12px;
 }
+.toplife{
+  list-style-type: none;
+  display: flex;
+}
+
+
+
+
+
+
+
+
+/* .Singup{
+  list-style-type: none;
+  justify-content: flex-end;
+  display: flex;
+}
+
+.Login {
+  list-style-type: none;
+  justify-content: flex-end;
+  display: flex;
+}
+
+.Logo{
+  justify-content: flex-start;
+  display: flex;
+} */
+
+
+
